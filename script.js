@@ -52,7 +52,7 @@ $(".SegundoClick3").click(function () {
     else if (elClickeado == "ramo2Click2-3") { loader = "Pages/2fundamentosBiologicosComportamiento/2fundamentosBiologicosComportamiento-Materia.html";}
     else if (elClickeado == "ramo3Click2-3") { loader = "Pages/3metodologialnvestigacionCuantitativa/3metodologiaInvestigacionCuantitativa-Materia.html";}
     else if (elClickeado == "ramo4Click2-3") { loader = "Pages/4psicologiaSocial/4psicologiaSocial-Materia.html";}
-    else if (elClickeado == "ramo5Click2-3") { loader = "Pages/5metodologiaInvestigacionCualitativa/5metodologiaInvestigacionCualitativa-Materia.html";}
+    else if (elClickeado == "ramo5Click2-3") { loader = "Pages/5metodologialnvestigacionCualitativa/5metodologiaInvestigacionCualitativa-Materia.html";}
     else if (elClickeado == "ramo6Click2-3") { loader = "Pages/6psicologiaDesarrollo1/6psicologiaDesarrollo1-Materia.html";}
     else if (elClickeado == "ramo7Click2-3") { loader = "Pages/7psicologiaDesarrollo2/7psicologiaDesarrollo2-Materia.html";}
     else if (elClickeado == "ramo8Click2-3") { loader = "Pages/8teoriasCognicion/8teoriasCognicion-Materia.html";}
